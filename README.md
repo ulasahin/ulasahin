@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" alt="Dino GIF">
+  <img src="https://camo.githubusercontent.com/7688f2fcb85511a16328c89ade20c07a403da508a031423eaa94feac6ec49567/68747470733a2f2f752e6375626575706c6f61642e636f6d2f766963746f726665727261726573692f64696e6f2e676966">
 </p>
 
 
